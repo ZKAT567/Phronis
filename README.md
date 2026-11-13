@@ -110,7 +110,7 @@ phronis uses a centralized workspace at `./workspace/` by default. You can chang
 
 ## Dataset Formats
 
-Drop files in `data/` and they appear in the dropdown automatically.
+Drop files in `data/` and they all appear in the dropdown automatically.
 
 **Alpaca** (`.json`):
 ```json
